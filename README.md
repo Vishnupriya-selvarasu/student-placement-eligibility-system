@@ -1,13 +1,26 @@
-# Student Placement Eligibility Management System
+# 🎓 Student Placement Management System
 
-Python-MySQL based application for managing student academic records and determining placement eligibility.
+This is a Python-based console application developed using Object Oriented Programming (OOP) concepts. 
 
-## Features
-- CRUD Operations (Create, Read, Update, Delete)
-- Automated eligibility percentage calculation
-- MySQL database integration
-- Input validation and logical checks
+It allows users to:
+- Add multiple student records
+- Calculate percentage automatically
+- Check placement eligibility
+- View all student details
 
-## Technologies Used
+## 🔧 Technologies Used
 - Python
-- MySQL
+- OOP Concepts
+- Conditional Statements
+- Loops
+- List Data Structure
+
+## 🎯 Eligibility Criteria
+Students with 60% and above are eligible for placement.
+
+## ▶ How to Run
+1. Install Python
+2. Download the file
+3. Run:
+   python placement_system.py
+
