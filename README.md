@@ -86,9 +86,9 @@ LinkedIn: https://www.linkedin.com/in/vishnupriya-selvarasu-33481837a
 
 📂 Project Structure
 
-placement_system.py  → Main Python Program
+placement_system.py  → Main Program
 README.md            → Project Documentation
-students.json        → Auto-created data file
+students.json        → data file
 
 ------------------------------------------------------------
 
